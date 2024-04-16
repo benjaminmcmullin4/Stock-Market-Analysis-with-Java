@@ -1,1 +1,1 @@
-# CS2420-Final-Project
+# Stock Market Analysis with Java
